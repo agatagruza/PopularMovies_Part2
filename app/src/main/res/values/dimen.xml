@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="horizontal_line">2dp</dimen>
+    <dimen name="button_text">7dp</dimen>
+    <dimen name="margin">10dp</dimen>
+    <dimen name="padding">15dp</dimen>
+    <dimen name="rating">20sp</dimen>
+    <dimen name="date">30sp</dimen>
+    <integer name="span_count">2</integer>
+</resources>

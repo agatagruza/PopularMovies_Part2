@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Popular Movies Part 2</string>
+    <string name="content_authority">com.udacity.popularmovies</string>
+    <string name="movie_id">Movie ID</string>
+    <string name="movie_title">Title</string>
+    <string name="movie_poster_url">Poster URL</string>
+    <string name="imageContentDescription">Movie Poster</string>
+    <string name="movie_release_date">Release Date</string>
+    <string name="movie_rating">Rating</string>
+    <string name="movie_vote_average">%1$.1f/10</string>
+    <string name="movie_description">Description</string>
+    <string name="movie_trailer_label">Trailers:</string>
+    <string name="no_trailers">Trailers preview not available</string>
+    <string name="movie_review_label">Reviews:</string>
+    <string name="no_reviews">Reviews preview not available</string>
+    <string name="most_popular">Most Popular</string>
+    <string name="top_rated">Top Rated</string>
+    <string name="favorites">Favorites</string>
+    <string name="sort_by_most_popular">popular</string>
+    <string name="sort_by_highest_rated">top_rated</string>
+    <string name="sort_by_favorites">favorites</string>
+    <string name="no_favorites">"You haven't selected any favorited movies"</string>
+    <string name="no_connection">"No Internet Connection"</string>
+    <string name="exit">"You need to have Internet Connection to access app. Press ok to Exit"</string>
+</resources>
