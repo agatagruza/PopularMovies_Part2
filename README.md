@@ -1,4 +1,4 @@
-# PopularMovies_Part2v3
+# PopularMovies_Part2
 
 ## API Notes
 Due to privacy and Terms of Service reasons, the API key has been removed from this repo. To run "PopulraMovies_Part1" application you will need to request API key from https://www.themoviedb.org/account/signup
